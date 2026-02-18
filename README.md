@@ -87,7 +87,7 @@ const hyugo = {
 > *Full-stack financial analysis platform with real-time market data & AI-powered insights*
 
 [![MarketPulse](https://img.shields.io/badge/MarketPulse-View_Repo-7c3aed?style=for-the-badge&logo=github)](https://github.com/hyugo1/marketpulse)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-22c55e?style=for-the-badge&logo=firebase)](marketpulse-taupe.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-22c55e?style=for-the-badge&logo=vercel)](https://marketpulse-taupe.vercel.app)
 
 ```
 Next.js · TypeScript · MongoDB · Redis · Inngest · Gemini API · Shadcn/UI · Tailwind
