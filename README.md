@@ -131,11 +131,8 @@ Python · Scikit-learn · PyTorch
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyugo1&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=hyugo1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" width="410" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=hyugo1&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+![](https://raw.githubusercontent.com/hyugo1/GitHub-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hyugo1/GitHub-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <br/>
 
