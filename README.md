@@ -89,9 +89,8 @@ const hyugo = {
 [![MarketPulse](https://img.shields.io/badge/MarketPulse-View_Repo-7c3aed?style=for-the-badge&logo=github)](https://github.com/hyugo1/marketpulse)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-22c55e?style=for-the-badge&logo=vercel)](https://marketpulse-taupe.vercel.app)
 
-```
-Next.js · TypeScript · MongoDB · Redis · Inngest · Gemini API · Shadcn/UI · Tailwind
-```
+<p align="center"><em>Next.js · TypeScript · MongoDB · Redis · Inngest · Gemini API · Shadcn/UI · Tailwind</em></p>
+
 - Real-time market data with interactive charts, stock screener & technical indicators
 - Event-driven background jobs sending daily AI news digests via Gemini + Nodemailer
 - Secure auth & personalised watchlists with command-palette search
@@ -104,9 +103,8 @@ Next.js · TypeScript · MongoDB · Redis · Inngest · Gemini API · Shadcn/UI 
 [![Code Connect](https://img.shields.io/badge/Code_Connect-View_Repo-0ea5e9?style=for-the-badge&logo=github)](https://github.com/hyugo1/CodeConnect)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-22c55e?style=for-the-badge&logo=firebase)](https://third-year-project-be34c.web.app)
 
-```
-JavaScript · React.js · React Flow · Firebase · Firestore
-```
+<p align="center"><em>JavaScript · React.js · React Flow · Firebase · Firestore</em></p>
+
 - Drag-and-drop flowchart builder with real-time animations and live console output
 - DFS traversal engine with animated character visualisation & block/edge highlighting
 - Visitor-pattern code generation — flowchart in, JavaScript out
@@ -119,11 +117,10 @@ JavaScript · React.js · React Flow · Firebase · Firestore
 
 [![Air Quality](https://img.shields.io/badge/Air_Quality_Predictor-View_Repo-22c55e?style=for-the-badge&logo=github)](https://github.com/hyugo1)
 
-```
-Python · Scikit-learn · PyTorch
-```
-- 🧠 MLP regressor achieving **92% accuracy** predicting CO levels on noisy real-world data
-- 📉 Binary linear classifier with gradient descent — high accuracy & R² on train/test sets
+<p align="center"><em>Python · Scikit-learn · PyTorch</em></p>
+
+- MLP regressor achieving **92% accuracy** predicting CO levels on noisy real-world data
+- Binary linear classifier with gradient descent — high accuracy & R² on train/test sets
 
 </div>
 
@@ -148,19 +145,16 @@ Python · Scikit-learn · PyTorch
 
 <div align="center">
 
-```
-🥇  Most Impressive Design & Implementation Award
-    2023 Team Project Showcase · Recognised by faculty & 300+ students
-    Project: Auxilium
-```
-
-```
-🏅  Huawei Ireland Tech Arena Hackathon — Top 9 out of 200 teams
-    July 2024 – September 2024
-    Built a linear programming model to optimise server fleet management
-    across distributed data centres, with PyTorch-based demand forecasting.
-    Presented to Huawei engineers & industry judges.
-```
+<table>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Most Impressive Design & Implementation Award</strong><br/>2023 Team Project Showcase · Recognised by faculty & 300+ students<br/><em>Project: Auxilium</em></td>
+</tr>
+<tr>
+<td align="center">🎖️</td>
+<td><strong>Huawei Ireland Tech Arena Hackathon — Top 9 out of 200 teams</strong><br/>July 2024 – September 2024<br/>Built a linear programming model to optimise server fleet management across distributed data centres, with PyTorch-based demand forecasting. Presented to Huawei engineers & industry judges.</td>
+</tr>
+</table>
 
 </div>
 
