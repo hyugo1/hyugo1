@@ -24,7 +24,7 @@
 ```typescript
 const hyugo = {
   role:        "Currently looking for a graduate role",
-  languages:   ["Python", "TypeScript", "C++", "Swift", "Java", "JavaScript", "C#", "Haskell", "Rust", "SQL"],
+  languages:   ["Python", "TypeScript", "C++", "Swift", "Java", "JavaScript", "SQL"],
   speaks:      ["English 🇬🇧 (Native)", "日本語 🇯🇵 (Native)"],
   currentFocus: "C++ projects, Full-stack apps",
 };
